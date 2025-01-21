@@ -19,5 +19,3 @@ Login usuario: Se registra al usuario y se genera un token que da acceso y permi
 ![2025-01-20_20h48_51](https://github.com/user-attachments/assets/c8543410-0131-4b3d-9c5d-dc9617083cbc)
 ![2025-01-20_21h18_31](https://github.com/user-attachments/assets/adc4ec68-b552-40c3-abf0-d3175658e499)
 ![2025-01-20_21h18_59](https://github.com/user-attachments/assets/17a6faa5-57f7-4a38-b2b3-bd818526dcb6)
-![2025-01-20_21h18_31](https://github.com/user-attachments/assets/4bc90e35-ae8e-4c27-8e79-427848fffb30)
-![2025-01-20_21h18_59](https://github.com/user-attachments/assets/fc5f9a67-e863-4244-b1c3-8b87f1716d6b)
